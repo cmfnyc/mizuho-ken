@@ -8,4 +8,4 @@ The site belongs to Chad's son, who is a child. It's public on GitHub Pages at c
 - New images uploaded through edit mode are `docs/images/p-*.jpg`, compressed to 1200px JPEG in the browser.
 - `relay/Code.gs` is a copy of the Apps Script code. It's deployed by hand from Chad's Google account, and changing it means redeploying a new version there.
 - `_old-claude-version/` is the earlier claude.ai artifact version (https://claude.ai/artifact/EvQBauH9voDsA6XFxsXouf). It's git-ignored and superseded.
-- No external scripts, fonts, or images: the site has to work on a filtered Shinagawa Ward iPad.
+- He edits from the family's home iPad. Not meant for his school iPad (Chad prefers it not be used at school). The relay runs in Chad's PERSONAL Google account, never the work one.
