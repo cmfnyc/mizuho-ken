@@ -821,9 +821,9 @@ window.MIZUHO_CONTENT = {
           "details": "（ここに特徴などを書いてください。）"
         },
         {
-          "image": "",
-          "name": "（氏名）",
-          "crime": "（罪状）",
+          "image": "images/wanted-05-oka.jpg",
+          "name": "岡昭煕",
+          "crime": "殺人",
           "reward": "（〇〇万円）",
           "details": "（ここに特徴などを書いてください。）"
         },
@@ -914,6 +914,6 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 1
+    "rev": 2
   }
 };
