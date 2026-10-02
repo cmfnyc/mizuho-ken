@@ -794,10 +794,10 @@ window.MIZUHO_CONTENT = {
       "list": [
         {
           "image": "",
-          "name": "（氏名）",
-          "crime": "（罪状）",
-          "reward": "（〇〇万円）",
-          "details": "（ここに特徴などを書いてください。）"
+          "name": "江島龍一",
+          "crime": "殺人•凶器準備集合•銃刀法違反",
+          "reward": "１０００万円",
+          "details": "身長165ｾﾝﾁ位、色浅黒、目大きい、眼鏡をかけることあり、首沢弁混じり"
         },
         {
           "image": "",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 4,
-    "updated": "2026-10-02T09:37:52.656Z"
+    "rev": 5,
+    "updated": "2026-10-02T14:38:55.807Z"
   }
 };
