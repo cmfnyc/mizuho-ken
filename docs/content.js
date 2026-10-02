@@ -793,7 +793,7 @@ window.MIZUHO_CONTENT = {
       "contact": "情報提供は最寄りの警察署・交番へ",
       "list": [
         {
-          "image": "",
+          "image": "images/p-mur2s2m7-ak36.jpg",
           "name": "江島龍一",
           "crime": "殺人•凶器準備集合•銃刀法違反",
           "reward": "１０００万円",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 6,
-    "updated": "2026-10-02T14:40:04.509Z"
+    "rev": 7,
+    "updated": "2026-10-02T14:45:42.205Z"
   }
 };
