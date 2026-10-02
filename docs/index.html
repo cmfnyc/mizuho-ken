@@ -280,16 +280,19 @@ img { max-width: 100%; }
 </div>
 <input type="file" id="filePick" accept="image/*" hidden>
 
-<script src="config.js"></script>
-<script src="app.js"></script>
 <script>
-  // content.js is loaded fresh every time, so a new save shows up without waiting for caches.
+  // config.js, app.js and content.js are fetched fresh every time, so updates show up right away.
   (function () {
-    var s = document.createElement("script");
-    s.src = "content.js?t=" + Date.now();
-    s.onload = function () { window.MizuhoApp.start(window.MIZUHO_CONTENT); };
-    s.onerror = function () { document.getElementById("main").textContent = "ページを読みこめませんでした。もう一度開いてください。"; };
-    document.head.appendChild(s);
+    var files = ["config.js", "app.js", "content.js"], t = Date.now();
+    function next(i) {
+      if (i === files.length) { window.MizuhoApp.start(window.MIZUHO_CONTENT); return; }
+      var s = document.createElement("script");
+      s.src = files[i] + "?t=" + t;
+      s.onload = function () { next(i + 1); };
+      s.onerror = function () { document.getElementById("main").textContent = "ページを読みこめませんでした。もう一度開いてください。"; };
+      document.head.appendChild(s);
+    }
+    next(0);
   })();
 </script>
 </body>
