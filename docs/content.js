@@ -811,7 +811,7 @@ window.MIZUHO_CONTENT = {
           "name": "前田一也",
           "crime": "殺人",
           "reward": "５００万円",
-          "details": "（ここに特徴などを書いてください。）"
+          "details": "離れ目、色浅黒、鷲鼻"
         },
         {
           "image": "",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 7,
-    "updated": "2026-10-02T14:45:42.205Z"
+    "rev": 8,
+    "updated": "2026-10-02T14:47:42.184Z"
   }
 };
