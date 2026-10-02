@@ -824,7 +824,7 @@ window.MIZUHO_CONTENT = {
           "image": "images/wanted-05-oka.jpg",
           "name": "岡昭煕",
           "crime": "殺人",
-          "reward": "（〇〇万円）",
+          "reward": "（300万円）",
           "details": "（ここに特徴などを書いてください。）"
         },
         {
@@ -914,6 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 2
+    "rev": 3,
+    "updated": "2026-10-02T09:35:53.235Z"
   }
 };
