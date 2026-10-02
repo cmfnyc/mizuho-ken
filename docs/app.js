@@ -584,7 +584,7 @@
       this.refresh();
     },
     refresh: function () {
-      if (!Relay.ready() || document.hidden || current !== "board") return;
+      if (!Relay.ready() || current !== "board" || (document.hidden && Board.loaded)) return;
       Relay.get("posts").then(function (r) {
         if (!r.ok) throw new Error(r.error);
         Board.posts = normalize(r.posts); Board.loaded = true; Board.render();
@@ -639,6 +639,8 @@
       });
     },
   };
+  document.addEventListener("visibilitychange", function () { if (!document.hidden && Board.started) Board.refresh(); });
+
   // Deleting a post (編集モード only): tap twice.
   document.addEventListener("click", function (e) {
     var btn = e.target.closest ? e.target.closest(".post-del") : null;
