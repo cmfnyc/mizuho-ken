@@ -835,7 +835,7 @@ window.MIZUHO_CONTENT = {
           "details": "（ここに特徴などを書いてください。）"
         },
         {
-          "image": "",
+          "image": "images/p-muwqbz98-eksg.jpg",
           "name": "森田久爾",
           "crime": "殺人、銃刀法違反",
           "reward": "３００万円",
@@ -850,10 +850,10 @@ window.MIZUHO_CONTENT = {
         },
         {
           "image": "",
-          "name": "（氏名）",
-          "crime": "（罪状）",
-          "reward": "（〇〇万円）",
-          "details": "（ここに特徴などを書いてください。）"
+          "name": "阮文日",
+          "crime": "殺人、銃刀法違反",
+          "reward": "３００万円",
+          "details": "身長172cmくらい、瑞越南国生まれ、小麦色、細身"
         },
         {
           "image": "",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 9,
-    "updated": "2026-10-06T13:40:51.150Z"
+    "rev": 10,
+    "updated": "2026-10-06T13:46:25.022Z"
   }
 };
