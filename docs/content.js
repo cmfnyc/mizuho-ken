@@ -824,7 +824,7 @@ window.MIZUHO_CONTENT = {
           "image": "images/wanted-05-oka.jpg",
           "name": "岡昭煕",
           "crime": "殺人",
-          "reward": "300万円",
+          "reward": "３００万円",
           "details": "（ここに特徴などを書いてください。）"
         },
         {
@@ -836,10 +836,10 @@ window.MIZUHO_CONTENT = {
         },
         {
           "image": "",
-          "name": "（氏名）",
-          "crime": "（罪状）",
-          "reward": "（〇〇万円）",
-          "details": "（ここに特徴などを書いてください。）"
+          "name": "森田久爾",
+          "crime": "殺人、銃刀法違反",
+          "reward": "３００万円",
+          "details": "身長182cmくらい、大柄、目細い、首が太い、太鳥弁混じり、色白"
         },
         {
           "image": "",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 8,
-    "updated": "2026-10-02T14:47:42.184Z"
+    "rev": 9,
+    "updated": "2026-10-06T13:40:51.150Z"
   }
 };
