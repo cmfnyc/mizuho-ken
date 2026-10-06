@@ -856,7 +856,7 @@ window.MIZUHO_CONTENT = {
           "details": "身長172cmくらい、瑞越南国生まれ、小麦色、細身"
         },
         {
-          "image": "",
+          "image": "images/p-muwqkckf-skdb.jpg",
           "name": "西川麗音",
           "crime": "殺人、殺人未遂",
           "reward": "１００万円",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 11,
-    "updated": "2026-10-06T13:48:49.843Z"
+    "rev": 12,
+    "updated": "2026-10-06T13:50:36.274Z"
   }
 };
