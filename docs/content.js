@@ -857,10 +857,10 @@ window.MIZUHO_CONTENT = {
         },
         {
           "image": "",
-          "name": "（氏名）",
-          "crime": "（罪状）",
-          "reward": "（〇〇万円）",
-          "details": "（ここに特徴などを書いてください。）"
+          "name": "西川麗音",
+          "crime": "殺人、殺人未遂",
+          "reward": "１００万円",
+          "details": "身長169cm、色白、細身、眼鏡着用の可能性あり、茶髪"
         },
         {
           "image": "",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 10,
-    "updated": "2026-10-06T13:46:25.022Z"
+    "rev": 11,
+    "updated": "2026-10-06T13:48:49.843Z"
   }
 };
