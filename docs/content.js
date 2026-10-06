@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 13,
-    "updated": "2026-10-06T14:03:41.264Z"
+    "rev": 14,
+    "updated": "2026-10-06T14:04:04.521Z"
   }
 };
