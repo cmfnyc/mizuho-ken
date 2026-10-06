@@ -797,7 +797,7 @@ window.MIZUHO_CONTENT = {
           "name": "江島龍一",
           "crime": "殺人•凶器準備集合•銃刀法違反",
           "reward": "１０００万円",
-          "details": "身長165ｾﾝﾁ位、色浅黒、目大きい、眼鏡をかけることあり、首沢弁混じり\n備考:この男は非常に危ないので、気をつけること"
+          "details": "身長165ｾﾝﾁ位、色浅黒、目大きい、眼鏡をかけることあり、首沢弁混じり、鼻が小さい。 備考:この男は非常に危ないので、気をつけること"
         },
         {
           "image": "",
@@ -849,7 +849,7 @@ window.MIZUHO_CONTENT = {
           "details": "（ここに特徴などを書いてください。）"
         },
         {
-          "image": "",
+          "image": "images/p-muwqyy1d-av2v.jpg",
           "name": "阮文日",
           "crime": "殺人、銃刀法違反",
           "reward": "３００万円",
@@ -914,7 +914,7 @@ window.MIZUHO_CONTENT = {
     "delConfirm": "もう一度押すと削除"
   },
   "meta": {
-    "rev": 12,
-    "updated": "2026-10-06T13:50:36.274Z"
+    "rev": 13,
+    "updated": "2026-10-06T14:03:41.264Z"
   }
 };
